@@ -1,8 +1,8 @@
 # Data Analytics Bootcamp - Module 9 Challenge
 
-<img src="[https://www.w3schools.com/html/img_girl.jpg](https://github.com/CharlesQuinn1/sql_challenge/blob/main/EmployeeSQL/SQL_challenge_ERD.png)" width="300" height="400">
+<img src="https://github.com/CharlesQuinn1/sql_challenge/blob/main/EmployeeSQL/SQL_challenge_ERD.png" width="300" height="400">
 
-<b>Challenge Description:<\b><br>
+<b>Challenge Description:</b><br>
 Design a database following the below three steps.<br>
   1. Data Modeling: examine 6 csv data files and create an Entity Relationship Diagram (ERD) for the postgres sql_challenge database.<br>
   2. Data Engineering: create sql_challenge database using the ERD and import the data from csv files.<br>
