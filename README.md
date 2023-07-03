@@ -1,6 +1,6 @@
 # Data Analytics Bootcamp - Module 9 Challenge
 
-<img src="https://www.w3schools.com/html/img_girl.jpg" width="300" height="400">
+<img src="[https://www.w3schools.com/html/img_girl.jpg](https://github.com/CharlesQuinn1/sql_challenge/blob/main/EmployeeSQL/SQL_challenge_ERD.png)" width="300" height="400">
 
 <b>Challenge Description:<\b><br>
 Design a database following the below three steps.<br>
@@ -22,3 +22,7 @@ The challenge deliverables are located in the EmployeeSQL folder under sql_chall
 1. ERD Image file: SQL_challenge_ERD.png<br>
 2. Table schemata file: SQL_challenge_table_schemata.sql<br>
 3. SQL queries file: SQL_challenge_select_statements.sql
+
+
+
+
