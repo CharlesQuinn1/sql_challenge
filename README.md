@@ -1,6 +1,6 @@
 # Data Analytics Bootcamp - Module 9 Challenge
 
-<img src="https://github.com/CharlesQuinn1/sql_challenge/blob/main/EmployeeSQL/SQL_challenge_ERD.png" width="800" height="400">
+<img src="https://github.com/CharlesQuinn1/sql_challenge/blob/main/EmployeeSQL/SQL_challenge_ERD.png" width="2000" height="400">
 
 <b>Challenge Description:</b><br>
 Design a database following the below three steps.<br>
